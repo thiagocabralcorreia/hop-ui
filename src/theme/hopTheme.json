@@ -1,0 +1,104 @@
+{
+  "borders": {
+    "sm": "1px solid",
+    "md": "2px solid"
+  },
+  "borderRadius": {
+    "sm": "2px",
+    "md": "4px"
+  },
+  "borderStyles": {
+    "solid": "solid"
+  },
+  "borderWidths": {
+    "sm": "1px",
+    "md": "2px"
+  },
+  "breakpoints": {
+    "xs": "320px",
+    "sm": "480x",
+    "md": "768px",
+    "lg": "1024px",
+    "xl": "1200px"
+  },
+  "colors": {
+    "primary": "#232c63",
+    "primary100": "#303b88",
+    "primary200": "#2a3579",
+    "primary300": "#232c63",
+    "primary400": "#20285b",
+    "primary500": "#20285b",
+    "secondary": "#c82030",
+    "secondary100": "#e03e4e",
+    "secondary200": "#dd2c3e",
+    "secondary300": "#c82030",
+    "secondary400": "#c11f30",
+    "secondary500": "#af1d2b",
+    "tertiary": "#fec70a",
+    "tertiary100": "#fecf34",
+    "tertiary200": "#feca20",
+    "tertiary300": "#fec70a",
+    "tertiary400": "#f4bb01",
+    "tertiary500": "#dfab01",
+    "grey100": "#e6e9ea",
+    "grey200": "#bEbfc1",
+    "grey300": "#959899",
+    "grey400": "#76777a",
+    "grey500": "#4c4b4d",
+    "black": "#000000",
+    "white": "#ffffff"
+  },
+  "components": {},
+  "fontFamily": ["Inter", "Arial", "sans-serif"],
+  "fontSizes": {
+    "xs": "10px",
+    "sm": "12px",
+    "md": "14px",
+    "lg": "16px",
+    "xl": "24px",
+    "xxl": "32px",
+    "xxxl": "56px"
+  },
+  "fontWeights": {
+    "light": 300,
+    "regular": 400,
+    "medium": 500,
+    "semibold": 600,
+    "bold": 700
+  },
+  "iconSizes": {
+    "sm": "12px",
+    "md": "16px",
+    "lg": "26px"
+  },
+  "lineHeights": {
+    "sm": "16px",
+    "md": "20px",
+    "lg": "24px",
+    "xl": "28px",
+    "xxl": "32px",
+    "xxxl": "44px"
+  },
+  "rtl": false,
+  "shadowWidths": {
+    "xs": "1px",
+    "sm": "2px",
+    "md": "3px"
+  },
+  "shadows": {
+    "xs": "(e) => expression",
+    "sm": "(e) => expression",
+    "md": "(e) => expression",
+    "lg": "(e,t,n) => expression"
+  },
+  "space": {
+    "base": 4,
+    "xxs": "4px",
+    "xs": "8px",
+    "sm": "12px",
+    "md": "20px",
+    "lg": "32px",
+    "xl": "40px",
+    "xxl": "48px"
+  }
+}
