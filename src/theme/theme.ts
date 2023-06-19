@@ -1,6 +1,6 @@
-import { IHopTheme } from "../types";
-import hopTheme from "./hopTheme.json";
+import { ITheme } from "../types";
+import defaultTheme from "./defaultTheme.json";
 
-const theme: IHopTheme = hopTheme;
+const theme: ITheme = defaultTheme;
 
 export default theme;

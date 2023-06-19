@@ -1,4 +1,19 @@
 {
+  "name": "@thiagocabralcorreia/react-library-boilerplate",
+  "version": "1.0.0",
+  "description": "React starter kit for building libraries, including TypeScript, Jest and Storybook",
+  "author": "Thiago Cabral Correia <thiagocabralcorreia@gmail.com> (https://github.com/thiagocabralcorreia)",
+  "keywords": [
+    "library",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build",
+    "build": "rollup -c",
+    "prepare": "npm run build"
+  },
   "devDependencies": {
     "@rollup/plugin-typescript": "^11.1.1",
     "@storybook/addon-essentials": "^7.0.18",
@@ -27,11 +42,5 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },
-  "scripts": {
-    "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
-    "build": "rollup -c",
-    "prepare": "npm run build"
   }
 }

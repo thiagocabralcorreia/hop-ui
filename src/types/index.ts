@@ -1,4 +1,4 @@
-export interface IHopTheme {
+export interface ITheme {
   borders: {
     sm: string;
     md: string;
