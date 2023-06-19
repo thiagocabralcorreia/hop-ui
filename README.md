@@ -1,5 +1,5 @@
  <div align="center">
-    <img align="center" src="https://github.com/thiagocabralcorreia/react-library-boilerplate/blob/main/frontend/public/react-library-boilerplate.png" />
+    <img align="center" src="https://raw.githubusercontent.com/thiagocabralcorreia/react-library-boilerplate/main/public/react-library-boilerplate.png" alt="React Library Boilerplate logo" />
     <h2>React Library Boilerplate</h2>
     Setup for building React libraries. Ready-to-use development environment with TypeScript, Storybook, Jest and Rollup.
 </div>
